@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Almarai-Bold.ttf",
+      "sha1": "91e36b6ef56ff61b29ddc8ff9a57ee1b0cb84cd2"
+    },
+    {
+      "path": "src/assets/fonts/Almarai-ExtraBold.ttf",
+      "sha1": "69480abe0a93c6cb38f9207ff898d9413b33fca2"
+    },
+    {
+      "path": "src/assets/fonts/Almarai-Light.ttf",
+      "sha1": "d049e0f333f3045991cb49ad0816b5f253249e52"
+    },
+    {
+      "path": "src/assets/fonts/Almarai-Regular.ttf",
+      "sha1": "072a431232b97e251e354a24e741e15b2024e913"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Black.ttf",
+      "sha1": "283fa65b96dc1f2d71c6504afb9610447bdcdf1b"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Bold.ttf",
+      "sha1": "48747b7a60086f97af0d373febcbd1f1bee87f17"
+    },
+    {
+      "path": "src/assets/fonts/Inter-ExtraBold.ttf",
+      "sha1": "bff772be6bca9895c6fdcd57e5d5be9a47f2e058"
+    },
+    {
+      "path": "src/assets/fonts/Inter-ExtraLight.ttf",
+      "sha1": "421072aef8610cb0f79661b494442a4b9363b43f"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Light.ttf",
+      "sha1": "dd9ec1ae67dd85143bacf7a3cb37e9f0ac979843"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Medium.ttf",
+      "sha1": "a418a8ba73bbcfa8c131c426ab836d78457afa9b"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Regular.ttf",
+      "sha1": "8c83a8d0c4ddd7ee4d92f140f4837b893ad6d346"
+    },
+    {
+      "path": "src/assets/fonts/Inter-SemiBold.ttf",
+      "sha1": "431007da316de60d85174aeec9b8389b5c73e7d6"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Thin.ttf",
+      "sha1": "297919d59c9ba4fa17251cdb9f06c26ca906e593"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansAvestan-Regular.ttf",
+      "sha1": "03e21efb42ec0beb254b239b54cf71646af9537a"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    }
+  ]
+}
